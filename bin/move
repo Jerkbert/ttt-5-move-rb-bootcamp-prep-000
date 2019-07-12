@@ -8,5 +8,4 @@ board = [" "," "," "," "," "," "," "," "," "]
 
 puts "Where would you like to go?"
 
-input = gets.strip
-input = input.to_i
+input = gets.strip.to_i
